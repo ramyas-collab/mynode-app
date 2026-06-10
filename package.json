@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint . --ext .cjs",
+    "lint": "eslint .",
     "test": "jest",
     "build": "echo 'Build complete'"
   },
