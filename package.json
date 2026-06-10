@@ -1,0 +1,27 @@
+{
+  "name": "mynode-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ext .js",
+    "test": "jest",
+    "build": "echo 'Build complete'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramyas-collab/mynode-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ramyas-collab/mynode-app/issues"
+  },
+  "homepage": "https://github.com/ramyas-collab/mynode-app#readme",
+  "devDependencies": {
+    "eslint": "^10.4.1",
+    "jest": "^30.4.2"
+  }
+}
