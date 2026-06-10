@@ -1,4 +1,3 @@
-@'
 const js = require('@eslint/js');
 
 module.exports = [
@@ -10,4 +9,3 @@ module.exports = [
     },
   },
 ];
-'@ | Out-File -FilePath eslint.config.cjs -Encoding utf8
